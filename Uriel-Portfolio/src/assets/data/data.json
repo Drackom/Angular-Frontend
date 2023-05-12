@@ -1,52 +1,47 @@
-{
-	"estudios": [{
-		"estudios-date": "2022-2023",
-		"estudios-company": "ArgentinaPrograma - INTI",
-		"estudios-subtitle": "Full Stack Developer Jr",
-		"estudios-description": "Estudiante del curso Argentina Programa, con la modalidad de primer etapa #YoProgramo y la segunda etapa #SéProgramar."
-	}],
-	"experience": [{
-		"experience-date": "2021-2022",
-		"experience-company": "Minecraft Server",
-		"experience-position": "Scripter",
-		"experience-description": "Desarrollo de la interfaz y sistemas para un servidor. Usamos JavaScript, Java, TypeScript."
-	}],
-	"experience experience-left": [{
-		"experienceleft-date": "2022-2023",
-		"experienceleft-company": "Servidor MTA",
-		"experienceleft-position": "Scripter",
-		"experienceleft-description": "Creación de scripts y sistemas. Utilicé el lenguaje Lua para implementar actualizaciones de scripts y modificar texturas y modelos."
-	}],
-	"skills-list": [{
-			"skill-skills": "CSS"
-		},
-		{
-			"skill-skills": "HTML"
-		},
-		{
-			"skill-skills": "Java"
-		},
-		{
-			"skill-skills": "Java Web"
-		},
-		{
-			"skill-skills": "TypeScript"
-		},
-		{
-			"skill-skills": "JavaScript"
-		}
-	],
+{	
+	"estudiosdate": "2022-2023",
+	"estudioscompany": "ArgentinaPrograma - INTI",
+	"estudiossubtitle": "Full Stack Developer Jr",
+	"estudiosdescription": "Estudiante del curso Argentina Programa, con la modalidad de primer etapa #YoProgramo y la segunda etapa #SéProgramar.",
+	
+	"experiencedate": "2021-2022",
+	"experiencecompany": "Minecraft Server",
+	"experienceposition": "Scripter",
+	"experiencedescription": "Desarrollo de la interfaz y sistemas para un servidor. Usamos JavaScript, Java, TypeScript.",
+	
+    "experienceleftdate": "2022-2023",
+	"experienceleftcompany": "Servidor MTA",
+	"experienceleftposition": "Scripter",
+	"experienceleftdescription": "Creación de scripts y sistemas. Utilicé el lenguaje Lua para implementar actualizaciones de scripts y modificar texturas y modelos.",
+
+	
+			"habilidad": "CSS"
+		,
+		
+			"habilidad1": "HTML"
+		,
+		
+			"habilidad2": "Java"
+		,
+		
+			"habilidad3": "Java Web"
+		,
+		
+			"habilidad4": "TypeScript"
+		,
+		
+			"habilidad5": "JavaScript"
+		,
 
 	"nombre": "Uriel Quinteros",
 	"info": "Hola, soy Uriel. Me gusta mucho la programación orientada a videos juegos. Actualmente soy estudiante de #ArgentinaPrograma.",
 	"titulo": "Full Stack Developer Jr",
 	"portada": "https://doitbeforeme.com/wp-content/uploads/2023/03/90s-retro-anime-wallpaper-1536x878.webp",
 	"perfil": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_9rEsX4ccNslucMWxPCBsqov2tZGWBHYMgQ&usqp=CAU",
-	"proyectos": [{
-		"proyectos-subtitle": "Página de roleplay",
-		"proyectos-date": 2023,
-		"proyectos-funcion": "Desarrollador",
-		"proyectos-description": "El proyecto consiste en una página a modelo de video juego, destinada a la función del Rol & Roleplay, como si de un juego de mesa se tratase.",
-		"proyectos-imagenes": "Link N/A"
-	}]
+    "proyectossubtitle": "Página de roleplay",
+	"proyectosdate": 2023,
+	"proyectosfuncion": "Desarrollador",
+	"proyectosdescription": "El proyecto consiste en una página a modelo de video juego, destinada a la función del Rol & Roleplay, como si de un juego de mesa se tratase.",
+	"proyectosimagenes": "Link N/A"
+
 }
