@@ -1,0 +1,61 @@
+  .nombre-edit img{
+    height: 35px;
+    width: 35px;
+  }
+
+  .nombre{
+    font-family: 'Roboto', sans-serif;
+    color: rgb(96, 150, 180);
+    text-align: center;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    top: -200px;
+    font-size: 25px;
+  }
+  
+  .info{
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.25);
+    font-size: 20px; 
+    font-weight: 400; 
+    text-align: center; 
+    overflow: hidden; 
+    padding: 20px;
+    border-radius: 5px; 
+    border: 5px solid rgb(189, 205, 214);
+    background-color: rgb(96, 150, 180);
+    width: 95%;
+    top: -190px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+    color: whitesmoke
+  }
+  
+  .titulo{
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.25);
+    font-size: 20px; 
+    font-weight: 400; 
+    text-align: center; 
+    overflow: hidden; 
+    padding: 20px; 
+    border-radius: 5px;
+    border: 5px solid rgb(189, 205, 214);
+    background-color: rgb(96, 150, 180);
+    width: 95%;
+    top: -160px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+    position: relative;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+    color: whitesmoke 
+  }

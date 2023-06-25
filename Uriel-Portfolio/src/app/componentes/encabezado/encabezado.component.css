@@ -1,0 +1,79 @@
+.instagram-perfil img{
+    height: 35px;
+  }
+  
+  .linkedin-perfil img{
+    height: 35px;
+  }
+  
+  .facebook-perfil img{
+    height: 35px;
+  }
+  
+  .github-perfil img{
+    height: 35px;
+  }
+  
+  header{
+    display: flex;
+    background-color: rgb(96, 150, 180);
+    justify-content: space-between;
+    min-height: 70px;
+    align-items: center;
+    padding: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.25);
+  }
+  
+  a{
+    text-decoration: none;
+    color: whitesmoke;
+  }
+  
+  .logo{
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+    padding-right: 20px;
+  }
+  
+  .logout img{
+    align-items: center;
+    display: flex;
+    margin-left: 5px;
+    height: 30px;
+    margin-right: 20px;
+  }
+  
+  .logo img{
+    margin-right: 20px;
+  }
+  
+  nav a{
+    padding-right: 10px;
+    align-items: center;
+    justify-content: space-between;
+  }
+  
+  a :hover{
+    color: rgb(0, 238, 255);
+  }
+
+  @media (max-width: 768px){
+    header{
+      flex-direction: column;
+    }
+    .logo{
+      flex-direction: column;
+    }
+    .logout{
+      margin-top: 10px;
+      position: absolute;
+      left: 2px;
+      top: 75px;
+    }
+    .argentinaprograma{
+      display: none;
+    }
+  }
+
+  
