@@ -38,6 +38,7 @@ export class IniciarSesionComponent implements OnInit {
   onEnviar(event:Event)
   {
     event.preventDefault;
+    this.ruta.navigate(['/portfolio']);
     this.autenticationService.IniciarSesion(this.form.value).subscribe(data=>{
       console.log("DATA:" + JSON.stringify(data));
       this.ruta.navigate(['/portfolio']);
